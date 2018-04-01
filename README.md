@@ -14,12 +14,12 @@
 
     ```java
     /*
-        * Classname
-        *
-        * Version Info
-        *
-        * Copyright notice
-        */
+     * Classname
+     *
+     * Version Info
+     *
+     * Copyright notice
+     */
     ```
 2. Package and Import statements
     ```java
@@ -36,11 +36,11 @@
 
         ```java
         /**
-            * Class/interface description goes here
-            *
-            * @version 1.0
-            * @author Myhq
-            */
+         * Class/interface description goes here
+         *
+         * @version 1.0
+         * @author Myhq
+         */
         ```
     * Class/interface statement
         ```java
@@ -51,9 +51,9 @@
     * Class/interface implementation comment, if neccessary (class-wide/interface-wide information that was not appropriate for the documentation comment
         ```java
         /*
-            * A class implementation
-            * comment can go here.
-            */
+         * A class implementation
+         * comment can go here.
+         */
         ```
     * **static** variables, *public* then *protected* and *privated*
         ```java
@@ -76,17 +76,17 @@
     * Contructors
         ```java
         /**
-            * Constructor1 documentation comments
-            */
+         * Constructor1 documentation comments
+         */
         public Blah() {
             // Constructor1
         }
 
         /**
-            * Constructor2 documentation comments
-            *
-            * @param mode description-of-mode
-            */
+         * Constructor2 documentation comments
+         *
+         * @param mode description-of-mode
+         */
         public Blah(int mode) {
             // Constructor2
         }
